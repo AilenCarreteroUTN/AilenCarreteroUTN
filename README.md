@@ -5,11 +5,10 @@ Bienvenidos a mi cuenta secundaria de GitHub, esta cuenta está dedicada exclusi
 ---
 
 ## ℹ Índice del contenido.
-#### Semestre I
-* [Programación 1](https://github.com/AilenCarreteroUTN/Programacion1-S1UTN)
 
-#### Semestre II
+* [Programación 1](https://github.com/AilenCarreteroUTN/Programacion1-S1UTN)
 * [Programación 2](https://github.com/AilenCarreteroUTN/Programacion2-S2UTN)
+* [Programación 3](https://github.com/AilenCarreteroUTN/Programacion3-S3UTN)
 
 ---
 
